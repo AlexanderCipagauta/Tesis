@@ -1,5 +1,5 @@
-# METODOLOGÍA PARA LA DEFINICIÓN DE UNA POLÍTICA OPTIMA DE COMBUSTIBLE ADICIONAL DURANTE EL PLANEAMIENTO DE VUELOS BASADO EN DESEMPEÑO OPERACIONAL
-  
+# Metodología para la definición de una pólitica óptima de combustible adicional durante el planeamiento de vuelos basado en desempeño operacional
+
 ***
 
 ### 1. Master Data: 
