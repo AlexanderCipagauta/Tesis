@@ -1,8 +1,5 @@
-<a href="https://www.vivaair.com"><img src = "https://upload.wikimedia.org/wikipedia/commons/a/a1/Logosvivaair_Mesa-de-trabajo-1.png" width = 250, align = "Right"></a>
-
-# Fuel Policy 
-## Alexander Cipagauta
-    
+# METODOLOGÍA PARA LA DEFINICIÓN DE UNA POLÍTICA OPTIMA DE COMBUSTIBLE ADICIONAL DURANTE EL PLANEAMIENTO DE VUELOS BASADO EN DESEMPEÑO OPERACIONAL
+  
 ***
 
 ### 1. Master Data: 
