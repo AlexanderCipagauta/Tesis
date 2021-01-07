@@ -24,5 +24,4 @@ Se selecciona el mejor modelo de aprendizaje automático teniendo como métrica 
 
 ### 5. Policy:
 
-Se define la función de Python que integra los 2 modelos de clasificación y predicción, para ser usada por el equipo de despacho de la aerolinea.
-ASí mismo se define una matriz con 1M de escenarios para ser consultado vía Excel en caso de que no se cuente con herramientas como Python
+Se define la pólitica de consumo de combustible adicional. Se crea la función de Python que integra los 2 modelos de clasificación y predicción, para ser usada por el equipo de despacho de la aerolinea. Así mismo se define una matriz con 1M de escenarios para ser consultado vía Excel en caso de que no se cuente con herramientas como Python
