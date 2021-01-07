@@ -1,5 +1,6 @@
 # Metodología para la definición de una pólitica óptima de combustible adicional durante el planeamiento de vuelos basado en desempeño operacional
-## Alexander Cipagauta / Candidato Magister Ingeniería Industrial Universidad de los Andes
+## Alexander Cipagauta
+### Candidato Magister Ingeniería Industrial Universidad de los Andes
 
 
 ### 1. Master Data: 
