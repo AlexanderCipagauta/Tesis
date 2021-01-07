@@ -10,8 +10,9 @@ Análisis exploratorio de datos, definición de variable de estudio y variables 
 
 ### 3. Classification: 
 
-Implementación de algoritmos de clasificación, para
+Implementación de algoritmos de clasificación, para saber si un vuelo requiere o no de combustible adicional. 
+Se selecciona el mejor modelo de aprendizaje automático teniendo como métrica de desempeño, la presición (Accuracy)
 
-### 4. Exploration Data Analysis: 
+### 4. Multi Classification (Prediction): 
 
 Análisis exploratorio de datos, definición de variable de estudio y variables predictoras
