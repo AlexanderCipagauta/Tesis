@@ -7,6 +7,10 @@
 
 Creación de base de datos para algoritmos de clasificación y predicción, teniendo en cuenta información operacional y data meteorológica histórica
 
+Debido a la cantidad de imagenes es necesario abrir el archivo por medio del siguiente link:
+https://nbviewer.jupyter.org/github/AlexanderCipagauta/Tesis/blob/main/1.%20Master%20Data.ipynb
+
+
 ### 2. Exploration Data Analysis: 
 
 Análisis exploratorio de datos, definición de variable de estudio y variables predictoras
